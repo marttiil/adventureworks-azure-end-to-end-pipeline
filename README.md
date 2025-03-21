@@ -21,7 +21,7 @@ The business has identified a gap in understanding customer demographics—speci
 
 ## Solution
 
-![Alt text](architecture/pipeline_overview.PNG)
+![Alt text](https://github.com/marttiil/adventureworks-azure-end-to-end-pipeline/blob/main/architecture/pipeline_overview.PNG?raw=true&v=2)
 
 **Tech Stack**: Azure Data Factory, Azure Data Lake Storage, Azure Databricks, Azure Synapse Analytics, Power BI, Azure Key Vault, SQL Server.
 
