@@ -5,6 +5,7 @@ This project is based on a tutorial by Luke J Byrne, which walks through buildin
 I followed the tutorial closely, added my own documentation and structure, and completed the full pipeline using a free Azure account.
 
 Link to original repo: https://github.com/lukejbyrne/rg-data-engineering-project/tree/main
+
 Link to youtube step-by-step video: https://www.youtube.com/watch?v=ygJ11fzq_ik&t=7078s&ab_channel=LukeJByrne
 
 ## Why this project?
