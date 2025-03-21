@@ -21,7 +21,7 @@ The business has identified a gap in understanding customer demographics—speci
 
 ## Solution
 
-![Alt text](architecture/pipeline_overview.png)
+![Alt text](architecture/pipeline_overview.PNG)
 
 **Tech Stack**: Azure Data Factory, Azure Data Lake Storage, Azure Databricks, Azure Synapse Analytics, Power BI, Azure Key Vault, SQL Server.
 
