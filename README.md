@@ -21,6 +21,8 @@ The business has identified a gap in understanding customer demographics—speci
 
 ## Solution
 
+![Alt text](architecture/pipeline_overview.PNG)
+
 **Tech Stack**: Azure Data Factory, Azure Data Lake Storage, Azure Databricks, Azure Synapse Analytics, Power BI, Azure Key Vault, SQL Server.
 
 **Steps:**
@@ -28,7 +30,18 @@ The business has identified a gap in understanding customer demographics—speci
 - Use Data Factory to copy data to Azure Data Lake Storage
 - Transform and clean data using Azure Databricks notebooks
 - Transform data into Bronze, Silver and Gold layers for raw, cleaned and aggregated data
+  
+![Alt text](architecture/databricks_example_notebook_view.PNG)
+
+![Alt text](architecture/ADF_pipeline.png)
+
 - Load transformed data to Azure Synapse Analytics dedicated SQL pool
+  
+ ![Alt text](architecture/synapse_analytics_pipeline.PNG)
+
 - Create Power BI dashboard for data visualization
+
+ ![Alt text](architecture/power_bi_dashboard.PNG)
+
 - Automate the data pipeline to run daily
 
