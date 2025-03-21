@@ -41,7 +41,7 @@ The business has identified a gap in understanding customer demographics—speci
 
 - Create Power BI dashboard for data visualization
 
- ![Alt text](architecture/power_bi_dashboard.PNG)
+ ![Alt text](powerbi/power_bi_dashboard.PNG)
 
 - Automate the data pipeline to run daily
 
